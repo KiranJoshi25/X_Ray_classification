@@ -22,9 +22,9 @@ Case A:
    
    download train, test and validation folders 
    
-   keep the notebook and the data folders in same place
+   keep the notebook and the data folders in same folder
    
-   and run the notebook
+   and then run the notebook
     
 2) For using already trained model:
    
@@ -34,9 +34,9 @@ Case A:
    
    download model_caseA and test folders only 
    
-   keep the notebook and the data folders in same place
+   keep the notebook and the data folders in same folder
    
-   and run the notebook 
+   and then run the notebook 
     
 
 
@@ -50,9 +50,9 @@ Case B:
     
     download train, test and validation folders 
     
-    keep the notebook and the data folders in same place
+    keep the notebook and the data folders in same folder
     
-    and run the notebook
+    and then run the notebook
     
 2) For using already trained model:
     
@@ -62,8 +62,8 @@ Case B:
     
     download model_caseB and test folders only 
     
-    keep the notebook and the data folders in same place
+    keep the notebook and the data folders in same folder
     
-    and run the notebook 
+    and then run the notebook 
     
     
