@@ -8,7 +8,8 @@ https://github.com/KiranJoshi25/X_ray_classification
 
 Here are 2 cases for experiments in project 
 
-case A and case B 
+case A : a smaller dataset
+case B : large dataset 
 
 
 Case A:
