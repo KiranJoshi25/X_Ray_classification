@@ -1,6 +1,12 @@
 # X_ray_classification
 
-Here are 2 cases for experiment 
+
+all notebooks are also available here 
+https://github.com/KiranJoshi25/X_ray_classification
+
+
+
+Here are 2 cases for experiments in project 
 
 case A and case B 
 
@@ -58,3 +64,5 @@ Case B:
     keep the notebook and the data folders in same place
     
     and run the notebook 
+    
+    
