@@ -43,7 +43,7 @@ Case B:
 
 1) For Training and testing both:
     
-    use  CASEA_Training_Testing notebook 
+    use  CASEB_Training_Testing notebook 
     
     download data of CaseB from here https://drive.google.com/drive/folders/10kuZFA4nhC1mvxU0jE9S8eY5gBPOfCgh?usp=sharing
     
@@ -55,7 +55,7 @@ Case B:
     
 2) For using already trained model:
     
-    use Testing_caseA notebook 
+    use Testing_caseB notebook 
     
     download data of CaseB from here https://drive.google.com/drive/folders/10kuZFA4nhC1mvxU0jE9S8eY5gBPOfCgh?usp=sharing
     
